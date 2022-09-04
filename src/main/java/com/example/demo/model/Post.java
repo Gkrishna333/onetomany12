@@ -22,7 +22,7 @@ import lombok.NoArgsConstructor;
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor
-//@SQLDelete( sql =" select * from Post ")
+
 public class Post {
 
 	@Id
