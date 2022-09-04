@@ -22,7 +22,6 @@ import lombok.NoArgsConstructor;
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor
-
 public class Post {
 
 	@Id
